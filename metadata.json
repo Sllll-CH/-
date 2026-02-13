@@ -1,0 +1,7 @@
+{
+  "name": "Slll - Personal Profile",
+  "description": "A high-end personal portfolio for Slll, a sophomore student from Guilin University of Technology, specializing in Resource Recycling Science and Engineering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
