@@ -1,2 +1,16 @@
 
-/* 空文件：用于消除部署环境的 404/MIME 报错 */
+/* Slll Portfolio Styles */
+:root {
+  --primary-blue: #2563eb;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 防止移动端点击高亮 */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
